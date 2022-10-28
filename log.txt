@@ -1,0 +1,1 @@
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Natural gas, LPG sensor MQ5 breakout with easyC/.git/
