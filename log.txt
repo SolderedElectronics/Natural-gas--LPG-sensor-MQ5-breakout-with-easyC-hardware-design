@@ -156,3 +156,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/CO sensor MQ7 breakout with easyC to CO-sensor-MQ7-breakout-with-easyC-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Natural gas, LPG sensor MQ5 breakout with easyC/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 595d35f] Updating open source files.
+ 1 file changed, 15 insertions(+)
+https://github.com/SolderedElectronics/Natural-gas--LPG-sensor-MQ5-breakout-with-easyC-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/CO sensor MQ7 breakout with easyC/OUTPUTS/V1.1.1: all files are present, commiting...
+CO-sensor-MQ7-breakout-with-easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/CO sensor MQ7 breakout with easyC to CO-sensor-MQ7-breakout-with-easyC-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Natural gas, LPG sensor MQ5 breakout with easyC/.git/
